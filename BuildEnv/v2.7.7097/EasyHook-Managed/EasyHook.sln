@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oleaccrt", "oleaccrt.csproj", "{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		netfx3.5-Debug|Any CPU = netfx3.5-Debug|Any CPU
+		netfx3.5-Release|Any CPU = netfx3.5-Release|Any CPU
+		netfx4-Debug|Any CPU = netfx4-Debug|Any CPU
+		netfx4-Release|Any CPU = netfx4-Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx3.5-Debug|Any CPU.ActiveCfg = netfx3.5-Debug|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx3.5-Debug|Any CPU.Build.0 = netfx3.5-Debug|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx3.5-Release|Any CPU.ActiveCfg = netfx3.5-Release|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx3.5-Release|Any CPU.Build.0 = netfx3.5-Release|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx4-Debug|Any CPU.ActiveCfg = netfx4-Debug|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx4-Debug|Any CPU.Build.0 = netfx4-Debug|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx4-Release|Any CPU.ActiveCfg = netfx4-Release|Any CPU
+		{AB53862B-3B5C-4EFC-9787-1F01199EBFBF}.netfx4-Release|Any CPU.Build.0 = netfx4-Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425E4169-33DE-42F1-93A1-B5F9CB7C29BB}
+	EndGlobalSection
+EndGlobal

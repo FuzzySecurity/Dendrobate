@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dendron", "Dendron\Dendron.csproj", "{C0343AE4-F86B-4C16-8C4A-6DB0EF19588D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0343AE4-F86B-4C16-8C4A-6DB0EF19588D}.Release|x64.ActiveCfg = Release|x64
+		{C0343AE4-F86B-4C16-8C4A-6DB0EF19588D}.Release|x64.Build.0 = Release|x64
+		{C0343AE4-F86B-4C16-8C4A-6DB0EF19588D}.Release|x86.ActiveCfg = Release|x86
+		{C0343AE4-F86B-4C16-8C4A-6DB0EF19588D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7BFE441-FBFF-429C-909D-9F1F48F3ED85}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+-=Current config=-
+
+Native libs:
+  - EasyHook32.dll --> msvcp_win32.dll
+  - EasyHook64.dll --> msvcp_win64.dll
+
+Managed libs:
+  - Assembly name --> oleaccrt
+  - Namespace     --> oleaccrt

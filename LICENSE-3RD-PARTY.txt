@@ -1,0 +1,6 @@
+ModuleId           Version     LicenseUrl                    
+--------           -------     ----------                    
+EasyHook           v2.7.7097   https://licenses.nuget.org/MIT
+Fody               2.5.0       https://licenses.nuget.org/MIT
+Costura.Fody       1.6.2       https://licenses.nuget.org/MIT
+CommandLineParser  1.9.3.15    https://licenses.nuget.org/MIT
